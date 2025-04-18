@@ -1,0 +1,66 @@
+.outerbox{
+    height:400px ;
+    width:550px ;
+    padding-left: 40px;
+    padding-top: 40px ;
+    display: inline-block; 
+ }
+ 
+ .flagbox{
+  height: 300px;
+  width: 500px;
+  background-color:white;
+  border: 2px solid black;
+  
+ }
+ .box1{
+    width: 110px;
+    height: 120px;
+    background-color: #213f90;
+    margin-bottom: 55px;
+    display: inline-block; 
+}
+.box4{
+    width: 325px;
+    height: 120px;
+    background-color:#213f90;
+    display: inline-block;
+    margin-left: 61px;
+    margin-bottom: 55px;
+    
+   
+}
+.box2{
+    width: 110px;
+    height: 121px;
+    background-color: #213f90;
+    display: inline-block;
+   
+}
+.box3{
+    width: 325px;
+    height: 120px;
+    background-color: #213f90;
+    display: inline-block;
+    margin-left: 61px;
+   
+}
+.name{
+    text-align: center;
+}
+.horizontal{
+    background-color:#d52928;
+    height: 300px;
+    width: 35px;
+    position: absolute;
+    top: 50px;
+    left: 173px;
+}
+
+.verticle{
+    background-color:#d52928;
+    height: 35px;
+    width: 500px ;
+    position: absolute;
+    top: 182px;   
+} 
